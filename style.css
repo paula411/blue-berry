@@ -1,0 +1,13 @@
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #d8a163;
+}
+#PJJ {
+  background-color: #d8a163;
+}
+section {
+  padding-top: 5rem;
+}
