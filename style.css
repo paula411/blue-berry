@@ -1,12 +1,20 @@
-body {
-  min-height: 3000px;
-}
+@import url("https://fonts.googleapis.com/css2?family=Krona+One&family=Playfair+Display&display=swap");
 .jumbotron {
   padding-top: 7rem;
-  background-color: #d8a163;
+  background-color: burlywood;
 }
 #PJJ {
-  background-color: #d8a163;
+  background-color: burlywood;
+}
+h1,
+h2 {
+  font-family: "Krona One", sans-serif;
+}
+.cakep {
+  font-family: "Krona One", sans-serif;
+}
+.font {
+  font-family: "Playfair Display", serif;
 }
 section {
   padding-top: 5rem;
